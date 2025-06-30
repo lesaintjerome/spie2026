@@ -1,0 +1,23 @@
+# List of requested packages to install in the environment
+# Once satisfied with a conda environment,
+# run the following to update the binder config:
+# conda env export > .binder/environment.yml
+name: stageseconde
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  
+  - pip:
+    - itk
+    - itk-rtk
+    - ipympl
+    - jupyterlab
+    - jupyterlab-h5web
+    - jupyter-remote-desktop-proxy
+    - matplotlib
+    - numpy
+    - scipy
+    - tqdm
+    - -e dcc4cbct

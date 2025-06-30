@@ -1,0 +1,12 @@
+dbus-x11
+fonts-dejavu
+tigervnc-standalone-server
+python3-pyqt5
+python3-pyqt5.qtopengl
+python3-pyqt5.qtsvg
+xfce4
+xfce4-panel
+xfce4-session
+xfce4-settings
+xorg
+xubuntu-icon-theme
