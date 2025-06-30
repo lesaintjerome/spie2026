@@ -2,7 +2,7 @@
 # Once satisfied with a conda environment,
 # run the following to update the binder config:
 # conda env export > .binder/environment.yml
-name: stageseconde
+name: spie2026
 channels:
   - conda-forge
 dependencies:
