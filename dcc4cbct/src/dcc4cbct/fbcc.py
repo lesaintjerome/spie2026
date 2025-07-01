@@ -314,8 +314,9 @@ class EpipolarPair() :
 
         return 1
     
-    def analyze_pair(self, figsize=(10,10)) :
+    def analyze_pair(self, figsize=(10,10), title=None) :
         fig,ax = plt.subplots(2,2,figsize=figsize)
+        fig.suptitle(title)
         ax[0,0].plot(self.cf0,label=f'proj 0')
         ax[0,0].plot(self.cf1,label=f'proj 1')
         ax[0,0].legend()
