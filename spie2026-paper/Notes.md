@@ -53,3 +53,5 @@ Pas si isimple.
 - Premier probleme : 1 paire qui parait admissible (i.e. dans la zone de la carte 2d de la consistence initiale) n'est pas forcement correcte lorsqu'on evalue la consistence pour un deplacement donne. Notamment, si le deplacement (0,284) est applique e.g. et si la paire est disons 80,120, la baseline peut beaucoup changer et ne plus etre dans une configuration "standard".
 - Second probleme: meme en supprimant ces pairs (j-i<40) la fonction de cout ne se comporte pas bien avec * paires ou plus, quelque soit le niveau de bruit. Et je ne comprnds pas pourquoi.
 
+
+
