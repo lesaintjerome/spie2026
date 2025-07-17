@@ -182,12 +182,12 @@ class EpipolarPair() :
         #A1 = np.dot(self.P1[:,:3],self.R12)
         #self.H1 = np.dot(K1,np.linalg.inv(A1))
 
-    def compute_fanbeam_consistency(self) :
+    def compute_fanbeam_consistency(self):
         if self.LineIntegralsAreComputed == False :
             self.compute_line_integrals()
         return ((self.cf0 - self.cf1)**2).sum()
     
-    def compute_grangeat_consistency(self) :
+    def compute_grangeat_consistency(self):
         if self.LineIntegralsAreComputed == False :
             self.compute_line_integrals()
         return ((self.cg0 - self.cg1)**2).sum()

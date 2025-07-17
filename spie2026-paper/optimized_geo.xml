@@ -1,0 +1,2165 @@
+<?xml version="1.0"?>
+<!DOCTYPE RTKGEOMETRY>
+<RTKThreeDCircularGeometry version="3">
+    <SourceToDetectorDistance>1000</SourceToDetectorDistance>
+  <Projection>
+    <GantryAngle>0</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>0</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+                    -1000                   0                   0                   0
+                        0               -1000                   0                   0
+                        0                   0                   1                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>1</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.57312726321494e-16</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -999.847695156391                   0    17.4524064372835 8.96682540032516e-14
+                        0               -1000                   0                   0
+       0.0174524064372835                   0   0.999847695156391                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>2</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>2.32940210850647e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>1.27222187258541e-14</OutOfPlaneAngle>
+    <Matrix>
+        -999.390827019096 5.17231170894855e-31     34.899496702501 1.32775920184869e-12
+      -7.74924495738926e-15               -1000 -2.21909341351155e-13                   0
+        0.034899496702501 -2.22044604925031e-16   0.999390827019096                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>3</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-5.72574795641534e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -998.629534754574                   0    52.3359562429438 -3.26367633515674e-12
+                        0               -1000                   0                   0
+       0.0523359562429438                   0   0.998629534754574                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>4</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-6.3040683375204e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -997.564050259824                   0    69.7564737441253 -3.59331895238663e-12
+                        0               -1000                   0                   0
+       0.0697564737441253                   0   0.997564050259824                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>5</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>3.57885700658336e-17</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -996.194698091746                   0    87.1557427476582 2.03994849375251e-14
+                        0               -1000                   0                   0
+       0.0871557427476582                   0   0.996194698091746                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>6</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-2.71104858621231e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -994.521895368273                   0    104.528463267653 -1.54529769414102e-12
+                        0               -1000                   0                   0
+        0.104528463267653                   0   0.994521895368273                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>7</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.12575283017767e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -992.546151641322                   0    121.869343405147 6.41679113201271e-12
+                        0               -1000                   0                   0
+        0.121869343405147                   0   0.992546151641322                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>8</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-9.40616319135973e-16</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         -990.26806874157                   0    139.173100960065 -5.36151301907505e-13
+                        0               -1000                   0                   0
+        0.139173100960065                   0    0.99026806874157                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>9</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.0406517283046e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>1.27222187258541e-14</OutOfPlaneAngle>
+    <Matrix>
+        -987.688340595138 2.31071101875947e-30    156.434465040231 5.93171485133624e-12
+      -3.47354289865167e-14               -1000 -2.19310867376507e-13                   0
+        0.156434465040231 -2.22044604925031e-16   0.987688340595138                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>10</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-2.75434529975653e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -984.807753012208                   0     173.64817766693 -1.56997682086122e-11
+                        0               -1000                   0                   0
+         0.17364817766693                   0   0.984807753012208                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>11</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-1.85527738083064e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -981.627183447664                   0    190.808995376545 -1.05750810707346e-12
+                        0               -1000                   0                   0
+        0.190808995376545                   0   0.981627183447664                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>12</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.63706729441426e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -978.147600733806                   0    207.911690817759 9.33128357816128e-12
+                        0               -1000                   0                   0
+        0.207911690817759                   0   0.978147600733806                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>13</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.0732700152071e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -974.370064785235                   0    224.951054343865 6.11763908668045e-12
+                        0               -1000                   0                   0
+        0.224951054343865                   0   0.974370064785235                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>14</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.16728812442201e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -970.295726275996                   0    241.921895599668 6.65354230920544e-12
+                        0               -1000                   0                   0
+        0.241921895599668                   0   0.970295726275996                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>15</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-5.08737454190331e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -965.925826289068                   0    258.819045102521 -2.89980348888489e-12
+                        0               -1000                   0                   0
+        0.258819045102521                   0   0.965925826289068                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>16</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-1.28014577574082e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -961.261695938319                   0    275.637355816999 -7.29683092172265e-12
+                        0               -1000                   0                   0
+        0.275637355816999                   0   0.961261695938319                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>17</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-3.25950560520768e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -956.304755963035                   0    292.371704722737 -1.85791819496838e-12
+                        0               -1000                   0                   0
+        0.292371704722737                   0   0.956304755963035                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>18</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>6.30745654570565e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -951.056516295154                   0    309.016994374947 3.59525023105222e-12
+                        0               -1000                   0                   0
+        0.309016994374947                   0   0.951056516295154                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>19</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-2.44094198445344e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -945.518575599317                   0    325.568154457157 -1.39133693113846e-11
+                        0               -1000                   0                   0
+        0.325568154457157                   0   0.945518575599317                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>20</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.77852883792254e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -939.692620785908                   0    342.020143325669 1.01376143761585e-11
+                        0               -1000                   0                   0
+        0.342020143325669                   0   0.939692620785908                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>21</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>8.02271923210811e-16</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -933.580426497202                   0      358.3679495453 4.57294996230162e-13
+                        0               -1000                   0                   0
+          0.3583679495453                   0   0.933580426497202                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>22</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.41533316843442e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>1.27222187258541e-14</OutOfPlaneAngle>
+    <Matrix>
+        -927.183854566787 3.14267094222314e-30    374.606593415912 8.06739906007622e-12
+      -8.3179373037348e-14               -1000 -2.0587617268015e-13                   0
+        0.374606593415912 -2.22044604925031e-16   0.927183854566787                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>23</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-4.53198971028181e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         -920.50485345244                   0    390.731128489274 -2.58323413486063e-11
+                        0               -1000                   0                   0
+        0.390731128489274                   0    0.92050485345244                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>24</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>5.21971572532586e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -913.545457642601                   0      406.7366430758 2.97523796343574e-11
+                        0               -1000                   0                   0
+          0.4067366430758                   0   0.913545457642601                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>25</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.76442929965846e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         -906.30778703665                   0    422.618261740699 1.00572470080532e-11
+                        0               -1000                   0                   0
+        0.422618261740699                   0    0.90630778703665                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>26</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-2.39842815506671e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -898.794046299167                   0    438.371146789077 -1.36710404838802e-11
+                        0               -1000                   0                   0
+        0.438371146789077                   0   0.898794046299167                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>27</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-2.54147083248003e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>360</OutOfPlaneAngle>
+    <Matrix>
+        -891.006524188368 5.64319886926518e-30    453.990499739547 -1.44863837451362e-11
+      1.00806141154385e-13               -1000 1.97843191649031e-13                   0
+        0.453990499739547 2.22044604925031e-16   0.891006524188368                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>28</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>3.09900943489353e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -882.947592858927                   0    469.471562785891 1.76643537788931e-11
+                        0               -1000                   0                   0
+        0.469471562785891                   0   0.882947592858927                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>29</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-3.54069830597658e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -874.619707139396                   0    484.809620246337 -2.01819803440665e-12
+                        0               -1000                   0                   0
+        0.484809620246337                   0   0.874619707139396                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>30</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-7.17148487953871e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -866.025403784439                   0                 500 -4.08774638133707e-12
+                        0               -1000                   0                   0
+                      0.5                   0   0.866025403784439                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>31</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-4.33972650874474e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -857.167300702112                   0    515.038074910054 -2.4736441099845e-11
+                        0               -1000                   0                   0
+        0.515038074910054                   0   0.857167300702112                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>32</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>4.34815543100833e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -848.048096156426                   0    529.919264233205 2.47844859567475e-12
+                        0               -1000                   0                   0
+        0.529919264233205                   0   0.848048096156426                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>33</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>3.1106298722671e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -838.670567945424                   0    544.639035015027 1.77305902719225e-11
+                        0               -1000                   0                   0
+        0.544639035015027                   0   0.838670567945424                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>34</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-5.58845960031567e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -829.037572555042                   0    559.192903470747 -3.18542197217993e-11
+                        0               -1000                   0                   0
+        0.559192903470747                   0   0.829037572555042                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>35</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-3.0076869691114e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -819.152044288992                   0    573.576436351046 -1.7143815723935e-12
+                        0               -1000                   0                   0
+        0.573576436351046                   0   0.819152044288992                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>36</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-6.02237084534054e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -809.016994374947                   0    587.785252292473 -3.43275138184411e-12
+                        0               -1000                   0                   0
+        0.587785252292473                   0   0.809016994374947                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>37</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.22911349850095e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -798.635510047293                   0    601.815023152048 7.00594694145544e-12
+                        0               -1000                   0                   0
+        0.601815023152048                   0   0.798635510047293                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>38</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-1.38594206708564e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -788.010753606722                   0    615.661475325658 -7.89986978238812e-12
+                        0               -1000                   0                   0
+        0.615661475325658                   0   0.788010753606722                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>39</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-3.51066490278722e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -777.145961456971                   0    629.320391049837 -2.00107899458871e-11
+                        0               -1000                   0                   0
+        0.629320391049837                   0   0.777145961456971                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>40</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>5.52049774372724e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>1.27222187258541e-14</OutOfPlaneAngle>
+    <Matrix>
+        -766.044443118978 1.22579674049544e-29    642.787609686539 3.14668371392453e-11
+      -1.42727520843553e-13               -1000 -1.70096035727369e-13                   0
+        0.642787609686539 -2.22044604925031e-16   0.766044443118978                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>41</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.43226161843094e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -754.709580222772                   0    656.059028990507 8.16389122505638e-12
+                        0               -1000                   0                   0
+        0.656059028990507                   0   0.754709580222772                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>42</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-1.61318257690992e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -743.144825477394                   0    669.130606358858 -9.19514068838652e-12
+                        0               -1000                   0                   0
+        0.669130606358858                   0   0.743144825477394                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>43</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-5.47018359018193e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         -731.35370161917                   0    681.998360062498 -3.1180046464037e-12
+                        0               -1000                   0                   0
+        0.681998360062498                   0    0.73135370161917                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>44</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-4.12937176379774e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -719.339800338651                   0    694.658370458997 -2.35374190536471e-12
+                        0               -1000                   0                   0
+        0.694658370458997                   0   0.719339800338651                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>45</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>2.77315718948278e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -707.106781186548                   0    707.106781186547 1.58069959800519e-11
+                        0               -1000                   0                   0
+        0.707106781186547                   0   0.707106781186548                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>46</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>2.21378583208068e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -694.658370458997                   0    719.339800338651 1.26185792428599e-11
+                        0               -1000                   0                   0
+        0.719339800338651                   0   0.694658370458997                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>47</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-8.4550283693063e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -681.998360062498                   0     731.35370161917 -4.81936617050459e-12
+                        0               -1000                   0                   0
+         0.73135370161917                   0   0.681998360062498                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>48</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>2.36183629471778e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -669.130606358858                   0    743.144825477394 1.34624668798913e-11
+                        0               -1000                   0                   0
+        0.743144825477394                   0   0.669130606358858                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>49</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-9.91845731402492e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -656.059028990507                   0    754.709580222772 -5.6535206689942e-12
+                        0               -1000                   0                   0
+        0.754709580222772                   0   0.656059028990507                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>50</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-2.74856574387122e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -642.787609686539                   0    766.044443118978 -1.56668247400659e-11
+                        0               -1000                   0                   0
+        0.766044443118978                   0   0.642787609686539                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>51</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>-3.65779232138245e-14</SourceOffsetX>
+    <ProjectionOffsetX>2.75938718981483e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -629.320391049837                   0    777.145961456971 -6.46234853557053e-27
+                        0               -1000                   0                   0
+        0.777145961456971                   0   0.629320391049837                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>52</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.0195464295418e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>1.27222187258541e-14</OutOfPlaneAngle>
+    <Matrix>
+        -615.661475325658 2.26384784150335e-30    788.010753606722 5.81141464838826e-12
+      -1.74973536461281e-13               -1000 -1.36704309056248e-13                   0
+        0.788010753606722 -2.22044604925031e-16   0.615661475325658                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>53</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>4.33723606993779e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>1.27222187258541e-14</OutOfPlaneAngle>
+    <Matrix>
+        -601.815023152048 9.63059869615931e-31    798.635510047293 2.47222455986454e-12
+      -1.77332706307552e-13               -1000 -1.33629779053745e-13                   0
+        0.798635510047293 -2.22044604925031e-16   0.601815023152048                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>54</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.68364318916294e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -587.785252292473                   0    809.016994374947 9.59676617822878e-12
+                        0               -1000                   0                   0
+        0.809016994374947                   0   0.587785252292473                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>55</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.4368801453778e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -573.576436351046                   0    819.152044288992 8.19021682865345e-13
+                        0               -1000                   0                   0
+        0.819152044288992                   0   0.573576436351046                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>56</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>2.97279144679838e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -559.192903470747                   0    829.037572555042 1.69449112467508e-11
+                        0               -1000                   0                   0
+        0.829037572555042                   0   0.559192903470747                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>57</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>3.75928144050818e-14</SourceOffsetX>
+    <ProjectionOffsetX>-2.83594915687459e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -544.639035015027                   0    838.670567945424 6.46234853557053e-27
+                        0               -1000                   0                   0
+        0.838670567945424                   0   0.544639035015027                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>58</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>2.59041992743503e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -529.919264233205                   0    848.048096156426 1.47653935863796e-11
+                        0               -1000                   0                   0
+        0.848048096156426                   0   0.529919264233205                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>59</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>4.49476629011312e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -515.038074910054                   0    857.167300702112 2.56201678536448e-11
+                        0               -1000                   0                   0
+        0.857167300702112                   0   0.515038074910054                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>60</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.75387034024378e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+                     -500                   0    866.025403784439 9.99706093938957e-12
+                        0               -1000                   0                   0
+        0.866025403784439                   0                 0.5                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>61</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>2.41973311502408e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -484.809620246337                   0    874.619707139396 1.37924787556373e-12
+                        0               -1000                   0                   0
+        0.874619707139396                   0   0.484809620246337                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>62</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-3.97356702283768e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -469.471562785891                   0    882.947592858927 -2.26493320301748e-11
+                        0               -1000                   0                   0
+        0.882947592858927                   0   0.469471562785891                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>63</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.23343337554998e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -453.990499739547                   0    891.006524188368 7.03057024063491e-12
+                        0               -1000                   0                   0
+        0.891006524188368                   0   0.453990499739547                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>64</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-2.67681729257365e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>360</OutOfPlaneAngle>
+    <Matrix>
+        -438.371146789077 5.94372838186009e-30    898.794046299167 -1.52578585676698e-11
+      1.99572368919469e-13               -1000 9.73379480993136e-14                   0
+        0.898794046299167 2.22044604925031e-16   0.438371146789077                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>65</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-5.06717981860908e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -422.618261740699                   0     906.30778703665 -2.88829249660717e-12
+                        0               -1000                   0                   0
+         0.90630778703665                   0   0.422618261740699                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>66</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-3.26793521128709e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>360</OutOfPlaneAngle>
+    <Matrix>
+          -406.7366430758 7.25627382910841e-30    913.545457642601 -1.86272307043364e-11
+      2.02847840223308e-13               -1000 9.03136772202995e-14                   0
+        0.913545457642601 2.22044604925031e-16     0.4067366430758                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>67</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>2.38861600670117e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -390.731128489274                   0     920.50485345244 1.36151112381967e-11
+                        0               -1000                   0                   0
+         0.92050485345244                   0   0.390731128489274                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>68</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>7.35247309245949e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -374.606593415912                   0    927.183854566787 4.19090966270191e-12
+                        0               -1000                   0                   0
+        0.927183854566787                   0   0.374606593415912                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>69</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>2.7625276659296e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>1.27222187258541e-14</OutOfPlaneAngle>
+    <Matrix>
+          -358.3679495453 6.13404364175806e-30    933.580426497202 1.57464076957987e-11
+      -2.07296496967313e-13               -1000 -7.95736697745798e-14                   0
+        0.933580426497202 -2.22044604925031e-16     0.3583679495453                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>70</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>8.78001079853529e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -342.020143325669                   0    939.692620785908 5.00460615516512e-12
+                        0               -1000                   0                   0
+        0.939692620785908                   0   0.342020143325669                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>71</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>3.43219211368861e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -325.568154457157                   0    945.518575599317 1.95634950480251e-11
+                        0               -1000                   0                   0
+        0.945518575599317                   0   0.325568154457157                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>72</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>3.15529517811235e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -309.016994374947                   0    951.056516295154 1.79851825152404e-12
+                        0               -1000                   0                   0
+        0.951056516295154                   0   0.309016994374947                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>73</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-1.11581521899684e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -292.371704722737                   0    956.304755963035 -6.360146748282e-12
+                        0               -1000                   0                   0
+        0.956304755963035                   0   0.292371704722737                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>74</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-1.49358874924501e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -275.637355816999                   0    961.261695938319 -8.51345587069654e-12
+                        0               -1000                   0                   0
+        0.961261695938319                   0   0.275637355816999                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>75</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.02029093323029e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -258.819045102521                   0    965.925826289068 5.81565831941266e-13
+                        0               -1000                   0                   0
+        0.965925826289068                   0   0.258819045102521                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>76</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>3.51107572222237e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -241.921895599668                   0    970.295726275996 2.00131316166675e-12
+                        0               -1000                   0                   0
+        0.970295726275996                   0   0.241921895599668                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>77</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-9.53034167578952e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -224.951054343865                   0    974.370064785235 -5.43229475520003e-12
+                        0               -1000                   0                   0
+        0.974370064785235                   0   0.224951054343865                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>78</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.01606531812283e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -207.911690817759                   0    978.147600733806 5.79157231330014e-12
+                        0               -1000                   0                   0
+        0.978147600733806                   0   0.207911690817759                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>79</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>8.53711594684793e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -190.808995376545                   0    981.627183447664 4.86615608970332e-12
+                        0               -1000                   0                   0
+        0.981627183447664                   0   0.190808995376545                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>80</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.91453935427111e-14</ProjectionOffsetX>
+    <OutOfPlaneAngle>1.27222187258541e-14</OutOfPlaneAngle>
+    <Matrix>
+         -173.64817766693 4.25113134532553e-30    984.807753012208 1.09128743193453e-11
+      -2.18671248444704e-13               -1000 -3.85576410060052e-14                   0
+        0.984807753012208 -2.22044604925031e-16    0.17364817766693                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>81</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>2.4061263573812e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -156.434465040231                   0    987.688340595138 1.37149202370728e-12
+                        0               -1000                   0                   0
+        0.987688340595138                   0   0.156434465040231                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>82</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-9.43321249363342e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -139.173100960065                   0     990.26806874157 -5.37693112137105e-12
+                        0               -1000                   0                   0
+         0.99026806874157                   0   0.139173100960065                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>83</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-6.86015668112382e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -121.869343405147                   0    992.546151641322 -3.91028930824058e-12
+                        0               -1000                   0                   0
+        0.992546151641322                   0   0.121869343405147                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>84</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-5.47434954299585e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>360</OutOfPlaneAngle>
+    <Matrix>
+        -104.528463267653 1.21554978149604e-30    994.521895368273 -3.12037923950763e-12
+      2.20828221346342e-13               -1000 2.32099813296868e-14                   0
+        0.994521895368273 2.22044604925031e-16   0.104528463267653                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>85</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.94029148133101e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -87.1557427476581                   0    996.194698091746 1.10596614435868e-12
+                        0               -1000                   0                   0
+        0.996194698091746                   0  0.0871557427476581                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>86</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>-7.16575986577356e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -69.7564737441252                   0    997.564050259824 -4.08448312349093e-12
+                        0               -1000                   0                   0
+        0.997564050259824                   0  0.0697564737441252                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>87</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>1.8531719082189e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         -52.335956242944                   0    998.629534754574 1.05630798768477e-12
+                        0               -1000                   0                   0
+        0.998629534754574                   0   0.052335956242944                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>88</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>2.80847853486259e-15</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -34.8994967025011                   0    999.390827019096 1.60083276487167e-12
+                        0               -1000                   0                   0
+        0.999390827019096                   0  0.0348994967025011                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>89</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>0</SourceOffsetX>
+    <ProjectionOffsetX>7.3261447812942e-16</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+        -17.4524064372836                   0    999.847695156391 4.1759025253377e-13
+                        0               -1000                   0                   0
+        0.999847695156391                   0  0.0174524064372836                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>90</GantryAngle>
+    <SourceToIsocenterDistance>570</SourceToIsocenterDistance>
+    <SourceOffsetX>-282.84</SourceOffsetX>
+    <ProjectionOffsetX>-282.84</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+      -6.12323399573677e-14                   0                1000             -282840
+                        0               -1000                   0                   0
+                        1                   0 6.12323399573677e-17                -570
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>91</GantryAngle>
+    <SourceToIsocenterDistance>565.063761363279</SourceToIsocenterDistance>
+    <SourceOffsetX>-282.796922098034</SourceOffsetX>
+    <ProjectionOffsetX>-282.796922098034</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         17.4524064372835                   0    999.847695156391   -282796.922098034
+                        0               -1000                   0                   0
+        0.999847695156391                   0 -0.0174524064372835   -565.063761363279
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>92</GantryAngle>
+    <SourceToIsocenterDistance>560.129026352665</SourceToIsocenterDistance>
+    <SourceOffsetX>-282.667701514081</SourceOffsetX>
+    <ProjectionOffsetX>-282.667701514081</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+          34.899496702501                   0    999.390827019096   -282667.701514081
+                        0               -1000                   0                   0
+        0.999390827019096                   0  -0.034899496702501   -560.129026352665
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>93</GantryAngle>
+    <SourceToIsocenterDistance>555.197298136246</SourceToIsocenterDistance>
+    <SourceOffsetX>-282.452377609984</SourceOffsetX>
+    <ProjectionOffsetX>-282.452377609984</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         52.3359562429438                   0    998.629534754574   -282452.377609984
+                        0               -1000                   0                   0
+        0.998629534754574                   0 -0.0523359562429438   -555.197298136246
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>94</GantryAngle>
+    <SourceToIsocenterDistance>550.270078966212</SourceToIsocenterDistance>
+    <SourceOffsetX>-282.151015975489</SourceOffsetX>
+    <ProjectionOffsetX>-282.151015975489</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         69.7564737441253                   0    997.564050259824   -282151.015975489
+                        0               -1000                   0                   0
+        0.997564050259824                   0 -0.0697564737441253   -550.270078966212
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>95</GantryAngle>
+    <SourceToIsocenterDistance>545.348869721252</SourceToIsocenterDistance>
+    <SourceOffsetX>-281.763708408269</SourceOffsetX>
+    <ProjectionOffsetX>-281.763708408269</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         87.1557427476582                   0    996.194698091746   -281763.708408269
+                        0               -1000                   0                   0
+        0.996194698091746                   0 -0.0871557427476582   -545.348869721252
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>96</GantryAngle>
+    <SourceToIsocenterDistance>540.435169449377</SourceToIsocenterDistance>
+    <SourceOffsetX>-281.290572885962</SourceOffsetX>
+    <ProjectionOffsetX>-281.290572885962</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         104.528463267654                   0    994.521895368273   -281290.572885962
+                        0               -1000                   0                   0
+        0.994521895368273                   0  -0.104528463267654   -540.435169449377
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>97</GantryAngle>
+    <SourceToIsocenterDistance>535.530474911288</SourceToIsocenterDistance>
+    <SourceOffsetX>-280.731753530232</SourceOffsetX>
+    <ProjectionOffsetX>-280.731753530232</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         121.869343405147                   0    992.546151641322   -280731.753530232
+                        0               -1000                   0                   0
+        0.992546151641322                   0  -0.121869343405147   -535.530474911288
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>98</GantryAngle>
+    <SourceToIsocenterDistance>530.636280124455</SourceToIsocenterDistance>
+    <SourceOffsetX>-280.087420562866</SourceOffsetX>
+    <ProjectionOffsetX>-280.087420562866</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         139.173100960065                   0     990.26806874157   -280087.420562866
+                        0               -1000                   0                   0
+         0.99026806874157                   0  -0.139173100960065   -530.636280124455
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>99</GantryAngle>
+    <SourceToIsocenterDistance>525.754075908021</SourceToIsocenterDistance>
+    <SourceOffsetX>-279.357770253929</SourceOffsetX>
+    <ProjectionOffsetX>-279.357770253929</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         156.434465040231                   0    987.688340595138   -279357.770253929
+                        0               -1000                   0                   0
+        0.987688340595138                   0  -0.156434465040231   -525.754075908021
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>100</GantryAngle>
+    <SourceToIsocenterDistance>520.885349428685</SourceToIsocenterDistance>
+    <SourceOffsetX>-278.543024861973</SourceOffsetX>
+    <ProjectionOffsetX>-278.543024861973</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+          173.64817766693                   0    984.807753012208   -278543.024861973
+                        0               -1000                   0                   0
+        0.984807753012208                   0   -0.17364817766693   -520.885349428685
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>101</GantryAngle>
+    <SourceToIsocenterDistance>516.031583747698</SourceToIsocenterDistance>
+    <SourceOffsetX>-277.643432566337</SourceOffsetX>
+    <ProjectionOffsetX>-277.643432566337</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         190.808995376545                   0    981.627183447664   -277643.432566337
+                        0               -1000                   0                   0
+        0.981627183447664                   0  -0.190808995376545   -516.031583747698
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>102</GantryAngle>
+    <SourceToIsocenterDistance>511.194257369105</SourceToIsocenterDistance>
+    <SourceOffsetX>-276.65926739155</SourceOffsetX>
+    <ProjectionOffsetX>-276.65926739155</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         207.911690817759                   0    978.147600733806    -276659.26739155
+                        0               -1000                   0                   0
+        0.978147600733806                   0  -0.207911690817759   -511.194257369105
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>103</GantryAngle>
+    <SourceToIsocenterDistance>506.374843789381</SourceToIsocenterDistance>
+    <SourceOffsetX>-275.590829123856</SourceOffsetX>
+    <ProjectionOffsetX>-275.590829123856</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         224.951054343865                   0    974.370064785235   -275590.829123856
+                        0               -1000                   0                   0
+        0.974370064785235                   0  -0.224951054343865   -506.374843789381
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>104</GantryAngle>
+    <SourceToIsocenterDistance>501.57481104859</SourceToIsocenterDistance>
+    <SourceOffsetX>-274.438443219903</SourceOffsetX>
+    <ProjectionOffsetX>-274.438443219903</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         241.921895599668                   0    970.295726275996   -274438.443219903
+                        0               -1000                   0                   0
+        0.970295726275996                   0  -0.241921895599668    -501.57481104859
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>105</GantryAngle>
+    <SourceToIsocenterDistance>496.795621283203</SourceToIsocenterDistance>
+    <SourceOffsetX>-273.2024607076</SourceOffsetX>
+    <ProjectionOffsetX>-273.2024607076</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         258.819045102521                   0    965.925826289068     -273202.4607076
+                        0               -1000                   0                   0
+        0.965925826289068                   0  -0.258819045102521   -496.795621283203
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>106</GantryAngle>
+    <SourceToIsocenterDistance>492.03873028072</SourceToIsocenterDistance>
+    <SourceOffsetX>-271.883258079194</SourceOffsetX>
+    <ProjectionOffsetX>-271.883258079194</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         275.637355816999                   0    961.261695938319   -271883.258079194
+                        0               -1000                   0                   0
+        0.961261695938319                   0  -0.275637355816999    -492.03873028072
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>107</GantryAngle>
+    <SourceToIsocenterDistance>487.305587036221</SourceToIsocenterDistance>
+    <SourceOffsetX>-270.481237176585</SourceOffsetX>
+    <ProjectionOffsetX>-270.481237176585</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         292.371704722737                   0    956.304755963036   -270481.237176585
+                        0               -1000                   0                   0
+        0.956304755963036                   0  -0.292371704722737   -487.305587036221
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>108</GantryAngle>
+    <SourceToIsocenterDistance>482.59763331099</SourceToIsocenterDistance>
+    <SourceOffsetX>-268.996825068921</SourceOffsetX>
+    <ProjectionOffsetX>-268.996825068921</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         309.016994374947                   0    951.056516295154   -268996.825068921
+                        0               -1000                   0                   0
+        0.951056516295154                   0  -0.309016994374947    -482.59763331099
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>109</GantryAngle>
+    <SourceToIsocenterDistance>477.916303193338</SourceToIsocenterDistance>
+    <SourceOffsetX>-267.430473922511</SourceOffsetX>
+    <ProjectionOffsetX>-267.430473922511</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         325.568154457157                   0    945.518575599317   -267430.473922511
+                        0               -1000                   0                   0
+        0.945518575599317                   0  -0.325568154457157   -477.916303193338
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>110</GantryAngle>
+    <SourceToIsocenterDistance>473.263022661768</SourceToIsocenterDistance>
+    <SourceOffsetX>-265.782660863086</SourceOffsetX>
+    <ProjectionOffsetX>-265.782660863086</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         342.020143325669                   0    939.692620785908   -265782.660863086
+                        0               -1000                   0                   0
+        0.939692620785908                   0  -0.342020143325669   -473.263022661768
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>111</GantryAngle>
+    <SourceToIsocenterDistance>468.639209150607</SourceToIsocenterDistance>
+    <SourceOffsetX>-264.053887830469</SourceOffsetX>
+    <ProjectionOffsetX>-264.053887830469</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+           358.3679495453                   0    933.580426497202   -264053.887830469
+                        0               -1000                   0                   0
+        0.933580426497202                   0    -0.3583679495453   -468.639209150607
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>112</GantryAngle>
+    <SourceToIsocenterDistance>464.046271118243</SourceToIsocenterDistance>
+    <SourceOffsetX>-262.24468142567</SourceOffsetX>
+    <ProjectionOffsetX>-262.24468142567</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         374.606593415912                   0    927.183854566787    -262244.68142567
+                        0               -1000                   0                   0
+        0.927183854566787                   0  -0.374606593415912   -464.046271118243
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>113</GantryAngle>
+    <SourceToIsocenterDistance>459.485607618094</SourceToIsocenterDistance>
+    <SourceOffsetX>-260.355592750488</SourceOffsetX>
+    <ProjectionOffsetX>-260.355592750488</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         390.731128489274                   0     920.50485345244   -260355.592750488
+                        0               -1000                   0                   0
+         0.92050485345244                   0  -0.390731128489274   -459.485607618094
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>114</GantryAngle>
+    <SourceToIsocenterDistance>454.958607872441</SourceToIsocenterDistance>
+    <SourceOffsetX>-258.387197239633</SourceOffsetX>
+    <ProjectionOffsetX>-258.387197239633</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+           406.7366430758                   0    913.545457642601   -258387.197239633
+                        0               -1000                   0                   0
+        0.913545457642601                   0    -0.4067366430758   -454.958607872441
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>115</GantryAngle>
+    <SourceToIsocenterDistance>450.466650849261</SourceToIsocenterDistance>
+    <SourceOffsetX>-256.340094485446</SourceOffsetX>
+    <ProjectionOffsetX>-256.340094485446</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         422.618261740699                   0     906.30778703665   -256340.094485446
+                        0               -1000                   0                   0
+         0.90630778703665                   0  -0.422618261740699   -450.466650849261
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>116</GantryAngle>
+    <SourceToIsocenterDistance>446.011104842177</SourceToIsocenterDistance>
+    <SourceOffsetX>-254.214908055256</SourceOffsetX>
+    <ProjectionOffsetX>-254.214908055256</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         438.371146789077                   0    898.794046299167   -254214.908055256
+                        0               -1000                   0                   0
+        0.898794046299167                   0  -0.438371146789078   -446.011104842177
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>117</GantryAngle>
+    <SourceToIsocenterDistance>441.593327053667</SourceToIsocenterDistance>
+    <SourceOffsetX>-252.012285301438</SourceOffsetX>
+    <ProjectionOffsetX>-252.012285301438</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         453.990499739547                   0    891.006524188368   -252012.285301438
+                        0               -1000                   0                   0
+        0.891006524188368                   0  -0.453990499739547   -441.593327053667
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>118</GantryAngle>
+    <SourceToIsocenterDistance>437.214663181639</SourceToIsocenterDistance>
+    <SourceOffsetX>-249.732897164219</SourceOffsetX>
+    <ProjectionOffsetX>-249.732897164219</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         469.471562785891                   0    882.947592858927   -249732.897164219
+                        0               -1000                   0                   0
+        0.882947592858927                   0  -0.469471562785891   -437.214663181639
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>119</GantryAngle>
+    <SourceToIsocenterDistance>432.876447009526</SourceToIsocenterDistance>
+    <SourceOffsetX>-247.377437967307</SourceOffsetX>
+    <ProjectionOffsetX>-247.377437967307</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         484.809620246337                   0    874.619707139396   -247377.437967307
+                        0               -1000                   0                   0
+        0.874619707139396                   0  -0.484809620246337   -432.876447009526
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>120</GantryAngle>
+    <SourceToIsocenterDistance>428.58</SourceToIsocenterDistance>
+    <SourceOffsetX>-244.946625206391</SourceOffsetX>
+    <ProjectionOffsetX>-244.946625206391</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+                      500                   0    866.025403784439   -244946.625206391
+                        0               -1000                   0                   0
+        0.866025403784439                   0                -0.5             -428.58
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>121</GantryAngle>
+    <SourceToIsocenterDistance>424.32663089244</SourceToIsocenterDistance>
+    <SourceOffsetX>-242.441199330585</SourceOffsetX>
+    <ProjectionOffsetX>-242.441199330585</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         515.038074910054                   0    857.167300702112   -242441.199330585
+                        0               -1000                   0                   0
+        0.857167300702112                   0  -0.515038074910054    -424.32663089244
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>122</GantryAngle>
+    <SourceToIsocenterDistance>420.11763530428</SourceToIsocenterDistance>
+    <SourceOffsetX>-239.861923516884</SourceOffsetX>
+    <ProjectionOffsetX>-239.861923516884</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         529.919264233205                   0    848.048096156426   -239861.923516884
+                        0               -1000                   0                   0
+        0.848048096156426                   0  -0.529919264233205    -420.11763530428
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>123</GantryAngle>
+    <SourceToIsocenterDistance>415.95429533635</SourceToIsocenterDistance>
+    <SourceOffsetX>-237.209583437684</SourceOffsetX>
+    <ProjectionOffsetX>-237.209583437684</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         544.639035015027                   0    838.670567945424   -237209.583437684
+                        0               -1000                   0                   0
+        0.838670567945424                   0  -0.544639035015027    -415.95429533635
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>124</GantryAngle>
+    <SourceToIsocenterDistance>411.837879182334</SourceToIsocenterDistance>
+    <SourceOffsetX>-234.484987021468</SourceOffsetX>
+    <ProjectionOffsetX>-234.484987021468</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         559.192903470747                   0    829.037572555042   -234484.987021468
+                        0               -1000                   0                   0
+        0.829037572555042                   0  -0.559192903470747   -411.837879182334
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>125</GantryAngle>
+    <SourceToIsocenterDistance>407.76964074247</SourceToIsocenterDistance>
+    <SourceOffsetX>-231.688964206698</SourceOffsetX>
+    <ProjectionOffsetX>-231.688964206698</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         573.576436351046                   0    819.152044288992   -231688.964206698
+                        0               -1000                   0                   0
+        0.819152044288992                   0  -0.573576436351046    -407.76964074247
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>126</GantryAngle>
+    <SourceToIsocenterDistance>403.750819241597</SourceToIsocenterDistance>
+    <SourceOffsetX>-228.82236668901</SourceOffsetX>
+    <ProjectionOffsetX>-228.82236668901</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         587.785252292473                   0    809.016994374947    -228822.36668901
+                        0               -1000                   0                   0
+        0.809016994374947                   0  -0.587785252292473   -403.750819241597
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>127</GantryAngle>
+    <SourceToIsocenterDistance>399.782638851675</SourceToIsocenterDistance>
+    <SourceOffsetX>-225.886067661776</SourceOffsetX>
+    <ProjectionOffsetX>-225.886067661776</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         601.815023152048                   0    798.635510047293   -225886.067661776
+                        0               -1000                   0                   0
+        0.798635510047293                   0  -0.601815023152048   -399.782638851675
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>128</GantryAngle>
+    <SourceToIsocenterDistance>395.866308318891</SourceToIsocenterDistance>
+    <SourceOffsetX>-222.880961550125</SourceOffsetX>
+    <ProjectionOffsetX>-222.880961550125</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         615.661475325658                   0    788.010753606722   -222880.961550125
+                        0               -1000                   0                   0
+        0.788010753606722                   0  -0.615661475325658   -395.866308318891
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>129</GantryAngle>
+    <SourceToIsocenterDistance>392.003020595464</SourceToIsocenterDistance>
+    <SourceOffsetX>-219.80796373849</SourceOffsetX>
+    <ProjectionOffsetX>-219.80796373849</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         629.320391049837                   0    777.145961456971    -219807.96373849
+                        0               -1000                   0                   0
+        0.777145961456971                   0  -0.629320391049837   -392.003020595464
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>130</GantryAngle>
+    <SourceToIsocenterDistance>388.193952476259</SourceToIsocenterDistance>
+    <SourceOffsetX>-216.668010291772</SourceOffsetX>
+    <ProjectionOffsetX>-216.668010291772</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         642.787609686539                   0    766.044443118978   -216668.010291772
+                        0               -1000                   0                   0
+        0.766044443118978                   0  -0.642787609686539   -388.193952476259
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>131</GantryAngle>
+    <SourceToIsocenterDistance>384.440264240325</SourceToIsocenterDistance>
+    <SourceOffsetX>-213.462057670209</SourceOffsetX>
+    <ProjectionOffsetX>-213.462057670209</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         656.059028990507                   0    754.709580222772   -213462.057670209
+                        0               -1000                   0                   0
+        0.754709580222772                   0  -0.656059028990507   -384.440264240325
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>132</GantryAngle>
+    <SourceToIsocenterDistance>380.743099297461</SourceToIsocenterDistance>
+    <SourceOffsetX>-210.191082438026</SourceOffsetX>
+    <ProjectionOffsetX>-210.191082438026</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         669.130606358858                   0    743.144825477394   -210191.082438026
+                        0               -1000                   0                   0
+        0.743144825477394                   0  -0.669130606358858   -380.743099297461
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>133</GantryAngle>
+    <SourceToIsocenterDistance>377.103583839923</SourceToIsocenterDistance>
+    <SourceOffsetX>-206.856080965966</SourceOffsetX>
+    <ProjectionOffsetX>-206.856080965966</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         681.998360062498                   0    731.353701619171   -206856.080965966
+                        0               -1000                   0                   0
+        0.731353701619171                   0  -0.681998360062498   -377.103583839923
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>134</GantryAngle>
+    <SourceToIsocenterDistance>373.522826499377</SourceToIsocenterDistance>
+    <SourceOffsetX>-203.458069127784</SourceOffsetX>
+    <ProjectionOffsetX>-203.458069127784</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         694.658370458997                   0    719.339800338651   -203458.069127784
+                        0               -1000                   0                   0
+        0.719339800338651                   0  -0.694658370458997   -373.522826499377
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>135</GantryAngle>
+    <SourceToIsocenterDistance>370.001918009197</SourceToIsocenterDistance>
+    <SourceOffsetX>-199.998081990803</SourceOffsetX>
+    <ProjectionOffsetX>-199.998081990803</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         707.106781186547                   0    707.106781186548   -199998.081990803
+                        0               -1000                   0                   0
+        0.707106781186548                   0  -0.707106781186547   -370.001918009197
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>136</GantryAngle>
+    <SourceToIsocenterDistance>366.541930872216</SourceToIsocenterDistance>
+    <SourceOffsetX>-196.477173500623</SourceOffsetX>
+    <ProjectionOffsetX>-196.477173500623</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         719.339800338651                   0    694.658370458997   -196477.173500623
+                        0               -1000                   0                   0
+        0.694658370458997                   0  -0.719339800338651   -366.541930872216
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>137</GantryAngle>
+    <SourceToIsocenterDistance>363.143919034034</SourceToIsocenterDistance>
+    <SourceOffsetX>-192.896416160077</SourceOffsetX>
+    <ProjectionOffsetX>-192.896416160077</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+          731.35370161917                   0    681.998360062499   -192896.416160077
+                        0               -1000                   0                   0
+        0.681998360062499                   0   -0.73135370161917   -363.143919034034
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>138</GantryAngle>
+    <SourceToIsocenterDistance>359.808917561974</SourceToIsocenterDistance>
+    <SourceOffsetX>-189.256900702539</SourceOffsetX>
+    <ProjectionOffsetX>-189.256900702539</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         743.144825477394                   0    669.130606358858   -189256.900702539
+                        0               -1000                   0                   0
+        0.669130606358858                   0  -0.743144825477394   -359.808917561974
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>139</GantryAngle>
+    <SourceToIsocenterDistance>356.537942329791</SourceToIsocenterDistance>
+    <SourceOffsetX>-185.559735759675</SourceOffsetX>
+    <ProjectionOffsetX>-185.559735759675</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         754.709580222772                   0    656.059028990507   -185559.735759675
+                        0               -1000                   0                   0
+        0.656059028990507                   0  -0.754709580222772   -356.537942329791
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>140</GantryAngle>
+    <SourceToIsocenterDistance>353.331989708228</SourceToIsocenterDistance>
+    <SourceOffsetX>-181.806047523741</SourceOffsetX>
+    <ProjectionOffsetX>-181.806047523741</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         766.044443118978                   0    642.787609686539   -181806.047523741
+                        0               -1000                   0                   0
+        0.642787609686539                   0  -0.766044443118978   -353.331989708228
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>141</GantryAngle>
+    <SourceToIsocenterDistance>350.19203626151</SourceToIsocenterDistance>
+    <SourceOffsetX>-177.996979404536</SourceOffsetX>
+    <ProjectionOffsetX>-177.996979404536</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         777.145961456971                   0    629.320391049837   -177996.979404536
+                        0               -1000                   0                   0
+        0.629320391049837                   0  -0.777145961456971    -350.19203626151
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>142</GantryAngle>
+    <SourceToIsocenterDistance>347.119038449875</SourceToIsocenterDistance>
+    <SourceOffsetX>-174.133691681109</SourceOffsetX>
+    <ProjectionOffsetX>-174.133691681109</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         788.010753606722                   0    615.661475325658   -174133.691681109
+                        0               -1000                   0                   0
+        0.615661475325658                   0  -0.788010753606722   -347.119038449875
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>143</GantryAngle>
+    <SourceToIsocenterDistance>344.113932338224</SourceToIsocenterDistance>
+    <SourceOffsetX>-170.217361148325</SourceOffsetX>
+    <ProjectionOffsetX>-170.217361148325</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         798.635510047293                   0    601.815023152048   -170217.361148325
+                        0               -1000                   0                   0
+        0.601815023152048                   0  -0.798635510047293   -344.113932338224
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>144</GantryAngle>
+    <SourceToIsocenterDistance>341.17763331099</SourceToIsocenterDistance>
+    <SourceOffsetX>-166.249180758403</SourceOffsetX>
+    <ProjectionOffsetX>-166.249180758403</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         809.016994374947                   0    587.785252292473   -166249.180758403
+                        0               -1000                   0                   0
+        0.587785252292473                   0  -0.809016994374947    -341.17763331099
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>145</GantryAngle>
+    <SourceToIsocenterDistance>338.311035793302</SourceToIsocenterDistance>
+    <SourceOffsetX>-162.23035925753</SourceOffsetX>
+    <ProjectionOffsetX>-162.23035925753</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         819.152044288992                   0    573.576436351046    -162230.35925753
+                        0               -1000                   0                   0
+        0.573576436351046                   0  -0.819152044288992   -338.311035793302
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>146</GantryAngle>
+    <SourceToIsocenterDistance>335.515012978532</SourceToIsocenterDistance>
+    <SourceOffsetX>-158.162120817666</SourceOffsetX>
+    <ProjectionOffsetX>-158.162120817666</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         829.037572555042                   0    559.192903470747   -158162.120817666
+                        0               -1000                   0                   0
+        0.559192903470747                   0  -0.829037572555042   -335.515012978532
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>147</GantryAngle>
+    <SourceToIsocenterDistance>332.790416562316</SourceToIsocenterDistance>
+    <SourceOffsetX>-154.04570466365</SourceOffsetX>
+    <ProjectionOffsetX>-154.04570466365</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         838.670567945424                   0    544.639035015027    -154045.70466365
+                        0               -1000                   0                   0
+        0.544639035015027                   0  -0.838670567945424   -332.790416562316
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>148</GantryAngle>
+    <SourceToIsocenterDistance>330.138076483116</SourceToIsocenterDistance>
+    <SourceOffsetX>-149.88236469572</SourceOffsetX>
+    <ProjectionOffsetX>-149.88236469572</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         848.048096156426                   0    529.919264233205    -149882.36469572
+                        0               -1000                   0                   0
+        0.529919264233205                   0  -0.848048096156426   -330.138076483116
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>149</GantryAngle>
+    <SourceToIsocenterDistance>327.558800669415</SourceToIsocenterDistance>
+    <SourceOffsetX>-145.67336910756</SourceOffsetX>
+    <ProjectionOffsetX>-145.67336910756</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         857.167300702112                   0    515.038074910054    -145673.36910756
+                        0               -1000                   0                   0
+        0.515038074910054                   0  -0.857167300702112   -327.558800669415
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>150</GantryAngle>
+    <SourceToIsocenterDistance>325.053374793609</SourceToIsocenterDistance>
+    <SourceOffsetX>-141.42</SourceOffsetX>
+    <ProjectionOffsetX>-141.42</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         866.025403784439                   0                 500             -141420
+                        0               -1000                   0                   0
+                      0.5                   0  -0.866025403784439   -325.053374793609
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>151</GantryAngle>
+    <SourceToIsocenterDistance>322.622562032693</SourceToIsocenterDistance>
+    <SourceOffsetX>-137.123552990474</SourceOffsetX>
+    <ProjectionOffsetX>-137.123552990474</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         874.619707139396                   0    484.809620246337   -137123.552990474
+                        0               -1000                   0                   0
+        0.484809620246337                   0  -0.874619707139396   -322.622562032693
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>152</GantryAngle>
+    <SourceToIsocenterDistance>320.267102835781</SourceToIsocenterDistance>
+    <SourceOffsetX>-132.785336818361</SourceOffsetX>
+    <ProjectionOffsetX>-132.785336818361</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         882.947592858927                   0    469.471562785891   -132785.336818361
+                        0               -1000                   0                   0
+        0.469471562785891                   0  -0.882947592858927   -320.267102835781
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>153</GantryAngle>
+    <SourceToIsocenterDistance>317.987714698562</SourceToIsocenterDistance>
+    <SourceOffsetX>-128.406672946333</SourceOffsetX>
+    <ProjectionOffsetX>-128.406672946333</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         891.006524188368                   0    453.990499739547   -128406.672946333
+                        0               -1000                   0                   0
+        0.453990499739547                   0  -0.891006524188368   -317.987714698562
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>154</GantryAngle>
+    <SourceToIsocenterDistance>315.785091944744</SourceToIsocenterDistance>
+    <SourceOffsetX>-123.988895157823</SourceOffsetX>
+    <ProjectionOffsetX>-123.988895157823</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         898.794046299167                   0    438.371146789077   -123988.895157823
+                        0               -1000                   0                   0
+        0.438371146789077                   0  -0.898794046299167   -315.785091944744
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>155</GantryAngle>
+    <SourceToIsocenterDistance>313.659905514554</SourceToIsocenterDistance>
+    <SourceOffsetX>-119.533349150739</SourceOffsetX>
+    <ProjectionOffsetX>-119.533349150739</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+          906.30778703665                   0    422.618261740699   -119533.349150739
+                        0               -1000                   0                   0
+        0.422618261740699                   0   -0.90630778703665   -313.659905514554
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>156</GantryAngle>
+    <SourceToIsocenterDistance>311.612802760367</SourceToIsocenterDistance>
+    <SourceOffsetX>-115.041392127559</SourceOffsetX>
+    <ProjectionOffsetX>-115.041392127559</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         913.545457642601                   0      406.7366430758   -115041.392127559
+                        0               -1000                   0                   0
+          0.4067366430758                   0  -0.913545457642601   -311.612802760367
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>157</GantryAngle>
+    <SourceToIsocenterDistance>309.644407249512</SourceToIsocenterDistance>
+    <SourceOffsetX>-110.514392381906</SourceOffsetX>
+    <ProjectionOffsetX>-110.514392381906</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+          920.50485345244                   0    390.731128489274   -110514.392381906
+                        0               -1000                   0                   0
+        0.390731128489274                   0   -0.92050485345244   -309.644407249512
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>158</GantryAngle>
+    <SourceToIsocenterDistance>307.75531857433</SourceToIsocenterDistance>
+    <SourceOffsetX>-105.953728881757</SourceOffsetX>
+    <ProjectionOffsetX>-105.953728881757</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         927.183854566787                   0    374.606593415912   -105953.728881757
+                        0               -1000                   0                   0
+        0.374606593415912                   0  -0.927183854566787    -307.75531857433
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>159</GantryAngle>
+    <SourceToIsocenterDistance>305.946112169531</SourceToIsocenterDistance>
+    <SourceOffsetX>-101.360790849393</SourceOffsetX>
+    <ProjectionOffsetX>-101.360790849393</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         933.580426497202                   0      358.3679495453   -101360.790849393
+                        0               -1000                   0                   0
+          0.3583679495453                   0  -0.933580426497202   -305.946112169531
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>160</GantryAngle>
+    <SourceToIsocenterDistance>304.217339136914</SourceToIsocenterDistance>
+    <SourceOffsetX>-96.7369773382322</SourceOffsetX>
+    <ProjectionOffsetX>-96.7369773382322</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         939.692620785908                   0    342.020143325669   -96736.9773382322
+                        0               -1000                   0                   0
+        0.342020143325669                   0  -0.939692620785908   -304.217339136914
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>161</GantryAngle>
+    <SourceToIsocenterDistance>302.569526077489</SourceToIsocenterDistance>
+    <SourceOffsetX>-92.0836968066622</SourceOffsetX>
+    <ProjectionOffsetX>-92.0836968066622</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         945.518575599317                   0    325.568154457157   -92083.6968066622
+                        0               -1000                   0                   0
+        0.325568154457157                   0  -0.945518575599317   -302.569526077489
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>162</GantryAngle>
+    <SourceToIsocenterDistance>301.003174931079</SourceToIsocenterDistance>
+    <SourceOffsetX>-87.4023666890102</SourceOffsetX>
+    <ProjectionOffsetX>-87.4023666890102</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         951.056516295154                   0    309.016994374948   -87402.3666890101
+                        0               -1000                   0                   0
+        0.309016994374948                   0  -0.951056516295154   -301.003174931079
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>163</GantryAngle>
+    <SourceToIsocenterDistance>299.518762823415</SourceToIsocenterDistance>
+    <SourceOffsetX>-82.6944129637788</SourceOffsetX>
+    <ProjectionOffsetX>-82.6944129637788</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         956.304755963036                   0    292.371704722737   -82694.4129637788
+                        0               -1000                   0                   0
+        0.292371704722737                   0  -0.956304755963036   -299.518762823415
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>164</GantryAngle>
+    <SourceToIsocenterDistance>298.116741920806</SourceToIsocenterDistance>
+    <SourceOffsetX>-77.9612697192801</SourceOffsetX>
+    <ProjectionOffsetX>-77.9612697192801</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         961.261695938319                   0    275.637355816999   -77961.2697192801
+                        0               -1000                   0                   0
+        0.275637355816999                   0  -0.961261695938319   -298.116741920806
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>165</GantryAngle>
+    <SourceToIsocenterDistance>296.7975392924</SourceToIsocenterDistance>
+    <SourceOffsetX>-73.204378716797</SourceOffsetX>
+    <ProjectionOffsetX>-73.204378716797</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         965.925826289068                   0    258.819045102521    -73204.378716797
+                        0               -1000                   0                   0
+        0.258819045102521                   0  -0.965925826289068     -296.7975392924
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>166</GantryAngle>
+    <SourceToIsocenterDistance>295.561556780097</SourceToIsocenterDistance>
+    <SourceOffsetX>-68.42518895141</SourceOffsetX>
+    <ProjectionOffsetX>-68.42518895141</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         970.295726275996                   0    241.921895599668     -68425.18895141
+                        0               -1000                   0                   0
+        0.241921895599668                   0  -0.970295726275996   -295.561556780097
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>167</GantryAngle>
+    <SourceToIsocenterDistance>294.409170876144</SourceToIsocenterDistance>
+    <SourceOffsetX>-63.6251562106188</SourceOffsetX>
+    <ProjectionOffsetX>-63.6251562106188</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         974.370064785235                   0    224.951054343865   -63625.1562106188
+                        0               -1000                   0                   0
+        0.224951054343865                   0  -0.974370064785235   -294.409170876144
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>168</GantryAngle>
+    <SourceToIsocenterDistance>293.34073260845</SourceToIsocenterDistance>
+    <SourceOffsetX>-58.805742630895</SourceOffsetX>
+    <ProjectionOffsetX>-58.805742630895</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         978.147600733806                   0    207.911690817759    -58805.742630895
+                        0               -1000                   0                   0
+        0.207911690817759                   0  -0.978147600733806    -293.34073260845
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>169</GantryAngle>
+    <SourceToIsocenterDistance>292.356567433663</SourceToIsocenterDistance>
+    <SourceOffsetX>-53.968416252302</SourceOffsetX>
+    <ProjectionOffsetX>-53.968416252302</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         981.627183447664                   0    190.808995376545    -53968.416252302
+                        0               -1000                   0                   0
+        0.190808995376545                   0  -0.981627183447664   -292.356567433663
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>170</GantryAngle>
+    <SourceToIsocenterDistance>291.456975138027</SourceToIsocenterDistance>
+    <SourceOffsetX>-49.1146505713146</SourceOffsetX>
+    <ProjectionOffsetX>-49.1146505713146</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         984.807753012208                   0     173.64817766693   -49114.6505713146
+                        0               -1000                   0                   0
+         0.17364817766693                   0  -0.984807753012208   -291.456975138027
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>171</GantryAngle>
+    <SourceToIsocenterDistance>290.642229746071</SourceToIsocenterDistance>
+    <SourceOffsetX>-44.2459240919789</SourceOffsetX>
+    <ProjectionOffsetX>-44.2459240919789</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         987.688340595138                   0    156.434465040231   -44245.9240919789
+                        0               -1000                   0                   0
+        0.156434465040231                   0  -0.987688340595138   -290.642229746071
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>172</GantryAngle>
+    <SourceToIsocenterDistance>289.912579437134</SourceToIsocenterDistance>
+    <SourceOffsetX>-39.3637198755449</SourceOffsetX>
+    <ProjectionOffsetX>-39.3637198755449</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+          990.26806874157                   0    139.173100960065   -39363.7198755449
+                        0               -1000                   0                   0
+        0.139173100960065                   0   -0.99026806874157   -289.912579437134
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>173</GantryAngle>
+    <SourceToIsocenterDistance>289.268246469769</SourceToIsocenterDistance>
+    <SourceOffsetX>-34.4695250887119</SourceOffsetX>
+    <ProjectionOffsetX>-34.4695250887119</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         992.546151641322                   0    121.869343405148   -34469.5250887119
+                        0               -1000                   0                   0
+        0.121869343405148                   0  -0.992546151641322   -289.268246469769
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>174</GantryAngle>
+    <SourceToIsocenterDistance>288.709427114038</SourceToIsocenterDistance>
+    <SourceOffsetX>-29.5648305506232</SourceOffsetX>
+    <ProjectionOffsetX>-29.5648305506232</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         994.521895368273                   0    104.528463267654   -29564.8305506232
+                        0               -1000                   0                   0
+        0.104528463267654                   0  -0.994521895368273   -288.709427114038
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>175</GantryAngle>
+    <SourceToIsocenterDistance>288.236291591731</SourceToIsocenterDistance>
+    <SourceOffsetX>-24.6511302787476</SourceOffsetX>
+    <ProjectionOffsetX>-24.6511302787476</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         996.194698091746                   0    87.1557427476582   -24651.1302787476
+                        0               -1000                   0                   0
+       0.0871557427476582                   0  -0.996194698091746   -288.236291591731
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>176</GantryAngle>
+    <SourceToIsocenterDistance>287.848984024511</SourceToIsocenterDistance>
+    <SourceOffsetX>-19.7299210337885</SourceOffsetX>
+    <ProjectionOffsetX>-19.7299210337885</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         997.564050259824                   0    69.7564737441255   -19729.9210337885
+                        0               -1000                   0                   0
+       0.0697564737441255                   0  -0.997564050259824   -287.848984024511
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>177</GantryAngle>
+    <SourceToIsocenterDistance>287.547622390016</SourceToIsocenterDistance>
+    <SourceOffsetX>-14.8027018637542</SourceOffsetX>
+    <ProjectionOffsetX>-14.8027018637542</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         998.629534754574                   0    52.3359562429438   -14802.7018637542
+                        0               -1000                   0                   0
+       0.0523359562429438                   0  -0.998629534754574   -287.547622390016
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>178</GantryAngle>
+    <SourceToIsocenterDistance>287.332298485919</SourceToIsocenterDistance>
+    <SourceOffsetX>-9.87097364733542</SourceOffsetX>
+    <ProjectionOffsetX>-9.87097364733542</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         999.390827019096                   0    34.8994967025011   -9870.97364733542
+                        0               -1000                   0                   0
+       0.0348994967025011                   0  -0.999390827019096   -287.332298485919
+    </Matrix>
+  </Projection>
+  <Projection>
+    <GantryAngle>179</GantryAngle>
+    <SourceToIsocenterDistance>287.203077901966</SourceToIsocenterDistance>
+    <SourceOffsetX>-4.93623863672125</SourceOffsetX>
+    <ProjectionOffsetX>-4.93623863672125</ProjectionOffsetX>
+    <OutOfPlaneAngle>0</OutOfPlaneAngle>
+    <Matrix>
+         999.847695156391                   0    17.4524064372834   -4936.23863672125
+                        0               -1000                   0                   0
+       0.0174524064372834                   0  -0.999847695156391   -287.203077901966
+    </Matrix>
+  </Projection>
+</RTKThreeDCircularGeometry>
