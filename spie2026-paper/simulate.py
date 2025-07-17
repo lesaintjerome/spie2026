@@ -4,7 +4,12 @@ import json
 import os
 import numpy as np
 import matplotlib.pyplot as plt
-from dcc4cbct.rtk_utils import AddNoiseToProjections, ReadGeometryFile
+
+try: 
+    from dcc4cbct.rtk_utils import AddNoiseToProjections, ReadGeometryFile, RecupParam
+except ImportError:
+    os.system("pip install ../dcc4cbct")
+    from dcc4cbct.rtk_utils import AddNoiseToProjections, ReadGeometryFile, RecupParam
 #%matplotlib osx
 
 
@@ -21,6 +26,7 @@ def main():
 
     # Full geom
     geo = rtk.ThreeDCircularProjectionGeometry.New()
+    corrected_geo = rtk.ThreeDCircularProjectionGeometry.New()
 
     # First half scan
     geo1 = rtk.ThreeDCircularProjectionGeometry.New()
@@ -28,6 +34,7 @@ def main():
         angle = config["geometry"]["first_angle_1"] + i * config["geometry"]["arc_1"] / (config["geometry"]["nprojs_1"])
         geo1.AddProjection(config["geometry"]["sid"], config["geometry"]["sdd"], angle)
         geo.AddProjection(config["geometry"]["sid"], config["geometry"]["sdd"], angle)
+        corrected_geo.AddProjection(config["geometry"]["sid"], config["geometry"]["sdd"], angle)
     geowriter.SetFilename("geo1.xml")
     geowriter.SetObject(geo1)
     geowriter.WriteFile()
@@ -38,12 +45,30 @@ def main():
         angle = config["geometry"]["first_angle_2"] + i * config["geometry"]["arc_2"] / (config["geometry"]["nprojs_2"])
         geo2.AddProjection(config["geometry"]["sid"], config["geometry"]["sdd"], angle) 
         geo.AddProjection(config["geometry"]["sid"], config["geometry"]["sdd"], angle)
+
+        sid,sdd,ga,dx,dy,oa,ia,sx,sy = RecupParam(geo2,i)
+        rotmat = np.array(geo2.GetRotationMatrix(i))
+        delta_dx, delta_dy, delta_sid, _ = np.dot(
+            rotmat,
+            np.array([displacement_vector_x, 0, displacement_vector_z, 0])
+        )
+        new_sid = sid + delta_sid
+        new_dx = dx + delta_dx
+        new_dy = dy + delta_dy
+        new_sx = sx + delta_dx
+        new_sy = sy + delta_dy
+        corrected_geo.AddProjectionInRadians(new_sid, sdd, ga, new_dx, new_dy, oa, ia, new_sx, new_sy)
+
     geowriter.SetFilename("geo2.xml")
     geowriter.SetObject(geo2)
     geowriter.WriteFile()
     geowriter.SetFilename("geo.xml")
     geowriter.SetObject(geo)
     geowriter.WriteFile()
+    geowriter.SetFilename("corrected_geo.xml")
+    geowriter.SetObject(corrected_geo)
+    geowriter.WriteFile()
+    
 
 
     imtype = itk.Image[itk.F, 3]
@@ -85,8 +110,9 @@ def main():
     stack = itk.GetImageFromArray(np.concatenate((stack1, stack2), axis=0))
     stack.CopyInformation(stack2)
     if config["projections"]["add_noise"]:
-        stack = AddNoiseToProjections(stack, 1e4, 0.01879) # 0.01879: mu(water)@75keV
-    itk.imwrite(stack, "stack.mha")
+        noise_level = config["projections"]["noise_level"]
+        stack = AddNoiseToProjections(stack, noise_level, 0.01879) # 0.01879: mu(water)@75keV
+    itk.imwrite(stack, f"stack_{noise_level:.1E}.mha")
 
 
 if __name__ == "__main__":

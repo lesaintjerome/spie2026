@@ -17,7 +17,8 @@
         "first_angle_2" : 90
     },
     "projections":{
-        "add_noise": true
+        "add_noise": true,
+        "noise_level": 1e2
     },
     "phantom": {
         "type": "shepp_logan",

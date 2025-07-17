@@ -115,3 +115,18 @@ def AddNoiseToProjections(proj_no_noise,I0,dh2o) :
     proj.CopyInformation(proj_no_noise)
     
     return proj
+
+def RecupParam(geo,idx) :
+    """
+        Extract the nine RTK geometric parameters of projection number idx in the geom geometry.
+    """
+    sid = geo.GetSourceToIsocenterDistances()[idx]
+    sdd = geo.GetSourceToDetectorDistances()[idx]
+    ga = geo.GetGantryAngles()[idx]
+    dx = geo.GetProjectionOffsetsX()[idx]
+    dy = geo.GetProjectionOffsetsY()[idx]
+    oa = geo.GetOutOfPlaneAngles()[idx]
+    ia = geo.GetInPlaneAngles()[idx]
+    sx = geo.GetSourceOffsetsX()[idx]
+    sy = geo.GetSourceOffsetsY()[idx]
+    return sid,sdd,ga,dx,dy,oa,ia,sx,sy
