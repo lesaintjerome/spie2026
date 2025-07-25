@@ -1,1 +1,1 @@
-*.mha filter=lfs diff=lfs merge=lfs -text
+spie2026-paper/*.mha filter=lfs diff=lfs merge=lfs -text
